@@ -1,0 +1,13 @@
+body, #root {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  box-sizing: border-box;
+  display: flex;
+}
+
+.container-buttons {
+  display: flex;
+  gap: 1rem;
+  margin: 1rem 0;
+}
